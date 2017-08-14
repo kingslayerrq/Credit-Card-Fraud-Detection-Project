@@ -12,7 +12,7 @@ This dataset presents transactions that occurred in two days, where we have 492 
 The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.<br>
 
 ## Key Results
-I want test Logistic Regression on skewed data. I also apply cross validation for hyperparameter tuning<br>
+I test Logistic Regression on skewed data. I also apply cross validation for hyperparameter tuning<br>
 different classification models. My model is offering an 99% accuracy score on the data.<br>
 You can see all the codes in the jupyter notebook.<br>
 
