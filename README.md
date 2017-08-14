@@ -12,7 +12,7 @@ The dataset is highly unbalanced, the positive class (frauds) account for 0.172%
 
 ## Key Results
 I want test Logistic Regression on skewed data. I also apply cross validation for hyperparameter tuning<br>
-different classification models. My model is offering an 99% accuracy score on the data.
+different classification models. My model is offering an 99% accuracy score on the data.<br>
 You can see all the codes in the jupyter notebook.<br>
 
 ## Certification
